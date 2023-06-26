@@ -1,0 +1,80 @@
+﻿Message,Type
+"Appartement à vendre ! Ne manquez pas cette opportunité, {{firstName}} {{lastName}} ! Contactez-nous au {{phone}} ou par e-mail à {{sender}}. {{other}}",Non spam
+"Vous êtes invité(e) à notre séminaire informatif le {{date}} à {{time}}, {{firstName}} {{lastName}}. Confirmez votre présence en cliquant sur {{other}}.",Non spam
+Poste vacant : {{other}}. Envoyez votre CV à {{sender}} pour postuler avant le {{date}}. Plus de détails : {{other}}.,Non spam
+"Soldes spéciales sur les produits électroniques jusqu'au {{date}}. Économisez {{other}} en achetant en ligne : {{other}}, {{firstName}} {{lastName}} !",Non spam
+"Vous êtes convié(e) à notre conférence sur {{other}}, {{firstName}} {{lastName}}. Rejoignez-nous le {{date}} à {{time}}. Inscrivez-vous dès maintenant : {{other}}.",Non spam
+"Profitez de nos soldes d'été, {{firstName}} {{lastName}} ! Jusqu'à {{other}} de réduction sur une sélection de produits. Détails sur {{other}}.",Non spam
+"Réservez vos vacances dès maintenant et économisez, {{firstName}} {{lastName}} ! Bénéficiez de tarifs spéciaux en appelant le {{phone}} ou en visitant {{other}}.",Non spam
+"Rejoignez notre webinar exclusif sur {{other}}, {{firstName}} {{lastName}}. Date : {{date}}, heure : {{time}}. Inscrivez-vous gratuitement : {{other}}.",Non spam
+"Découvrez notre tout nouveau produit révolutionnaire, {{firstName}} {{lastName}} ! Disponible dès maintenant. Obtenez plus d'informations sur {{other}}.",Non spam
+"En tant qu'abonné(e) privilégié(e), {{firstName}} {{lastName}}, bénéficiez d'une réduction de {{other}} sur votre prochain achat. Utilisez le code promo : {{other}}. {{other}}",Non spam
+"Cher(e) {{civility}} {{lastName}}, nous vous informons que l'horaire de {{other}} a été modifié. Veuillez consulter les nouveaux horaires sur notre site web : {{other}}.",Non spam
+"Cher(e) {{civility}} {{lastName}}, nous avons mis à jour nos politiques de confidentialité. Pour en savoir plus sur la manière dont nous protégeons vos données, veuillez consulter notre site web : {{other}}.",Non spam
+Nous avons de nouvelles opportunités d'emploi disponibles ! Consultez notre site web pour découvrir les postes vacants et postuler : {{other}}.,Non spam
+"Cher(e) {{civility}} {{lastName}}, ceci est un rappel amical concernant le paiement de votre facture. Veuillez effectuer le règlement avant le {{date}} pour éviter des frais supplémentaires.",Non spam
+"Important : {{other}} a déménagé. Veuillez noter notre nouvelle adresse : {{other}}. Pour plus d'informations, veuillez nous contacter au {{phone}}.",Non spam
+"Nous effectuerons une maintenance de notre site web le {{date}} de {{time}} à {{time}}. Pendant cette période, le site pourra être temporairement indisponible. Nous nous excusons pour tout désagrément causé.",Non spam
+"Cher(e) {{civility}} {{lastName}}, veuillez noter nos nouveaux horaires d'ouverture à partir du {{date}}. Consultez notre site web pour les détails complets : {{other}}.",Non spam
+Sauvegardez la date ! {{other}} aura lieu le {{date}} à {{time}}. Restez à l'écoute pour plus de détails et inscrivez-vous dès maintenant : {{other}}.,Non spam
+"Nous sommes ravis d'annoncer notre nouveau partenariat avec {{other}}. Ensemble, nous visons à fournir de meilleures solutions pour {{other}}. En savoir plus : {{other}}.",Non spam
+Offre exclusive pour nos abonnés : Bénéficiez d'une réduction de {{other}}% sur tous nos produits. Utilisez le code promo : {{other}}. Offre valable jusqu'au {{other}}.,Non spam
+Vente flash ! Économisez {{other}}% sur votre prochain achat. Ne manquez pas cette occasion limitée. Rendez-vous sur {{link}} pour en profiter.,Non spam
+Livraison gratuite sur toutes les commandes passées aujourd'hui seulement. Achetez maintenant sur {{link}} et économisez sur les frais d'expédition.,Non spam
+"Promotion du jour : {{other}} à {{other}}. Faites vite, cette offre se termine ce soir. Commandez dès maintenant : {{link}}.",Non spam
+"Offre de parrainage : Référez un ami et recevez {{other}}% de réduction sur votre prochain achat. De plus, votre ami bénéficiera également d'une remise spéciale. Partagez dès maintenant : {{link}}.",Non spam
+Découvrez notre pack promotionnel exclusif. Achetez {{other A}} et {{other B}} ensemble et économisez {{other}}%. Disponible uniquement sur {{link}}.,Non spam
+Vente flash de {{time début}} à {{time fin}} aujourd'hui seulement ! Économisez jusqu'à {{other}}% sur une sélection de produits. Rendez-vous sur {{link}} pour profiter de ces offres incroyables.,Non spam
+Offre de bienvenue : Bénéficiez de {{other}}% de réduction sur votre première commande. Utilisez le code promo : {{other}}. Commencez à magasiner sur {{link}}.,Non spam
+Profitez de {{other}}% de réduction sur nos produits phares. Découvrez nos meilleures ventes à prix réduit dès maintenant : {{link}}. Offre valable jusqu'au {{other}}.,Non spam
+"En remerciement de votre fidélité, bénéficiez d'une remise spéciale de {{other}}% sur votre prochain achat. Connectez-vous à votre compte sur {{link}} pour en profiter.",Non spam
+Vous êtes cordialement invité(e) à notre salon professionnel {{other}}. Joignez-vous à nous le {{other}} pour découvrir les dernières innovations de l'industrie. Inscrivez-vous dès maintenant : {{other}}.,Non spam
+Ne manquez pas le salon {{other}} où vous pourrez découvrir les dernières tendances de {{other}}. Rejoignez-nous le {{other}} pour une expérience immersive. Plus d'informations : {{other}}.,Non spam
+"Rencontrez les meilleurs experts du secteur lors du salon {{other}}. Échangez des idées, élargissez votre réseau et explorez de nouvelles opportunités. Réservez votre place dès maintenant : {{other}}.",Non spam
+Découvrez les technologies de pointe au salon {{other}}. Venez voir les dernières innovations qui révolutionnent {{other}}. Rejoignez-nous le {{other}}. Enregistrez-vous ici : {{other}}.,Non spam
+Participez au salon {{other}} et élargissez vos horizons professionnels. Rencontrez des acteurs clés de {{other}} et explorez de nouvelles opportunités. Réservez votre place dès maintenant : {{other}}.,Non spam
+"À la recherche de nouvelles opportunités professionnelles ? Ne manquez pas le salon de l'emploi {{other}}. Rencontrez des recruteurs, explorez des offres d'emploi et faites avancer votre carrière. Plus d'informations : {{other}}.",Non spam
+Assistez à des conférences inspirantes données par des experts renommés lors du salon {{other}}. Obtenez des informations précieuses sur les dernières tendances et les meilleures pratiques de {{other}}. Inscrivez-vous ici : {{other}}.,Non spam
+Le salon {{other}} offre une occasion unique de réseautage avec des professionnels influents de {{other}}. Établissez de nouveaux contacts et renforcez vos relations d'affaires. Réservez votre place dès maintenant : {{other}}.,Non spam
+Venez assister à des démonstrations en direct des derniers produits et services au salon {{other}}. Découvrez leur fonctionnement de près et posez vos questions aux experts. Joignez-vous à nous le {{other}}. Enregistrez-vous ici : {{other}}.,Non spam
+Le salon {{other}} est l'endroit idéal pour explorer des opportunités de partenariat stratégique. Rencontrez des entreprises innovantes et créez des synergies pour la croissance de votre entreprise. Plus d'informations : {{other}}.,Non spam
+"URGENT : Gagnez de l'argent rapidement et facilement, {{civility}} {{firstName}} {{lastName}} ! Cliquez {{link}} pour rejoindre notre programme de gains instantanés.",Spam
+"Obtenez des milliers de followers sur les réseaux sociaux en un clin d'œil, {{civility}} {{firstName}} {{lastName}} ! Achetez nos services de followers et boostez votre popularité en ligne.",Spam
+"Enrichissez-vous grâce à notre système de trading automatique, {{civility}} {{firstName}} {{lastName}}. Pas besoin d'expérience préalable, laissez notre logiciel générer des revenus passifs pour vous.",Spam
+"Réclamez votre héritage de plusieurs millions de dollars dès maintenant, {{civility}} {{firstName}} {{lastName}}. Fournissez vos informations bancaires pour que nous puissions transférer les fonds.",Spam
+"Gagnez de l'argent en travaillant de chez vous, {{civility}} {{firstName}} {{lastName}}. Rejoignez notre programme d'affiliation et commencez à générer des revenus dès aujourd'hui.",Spam
+"Boostez votre carrière avec notre formation en ligne exclusive, {{civility}} {{firstName}} {{lastName}}. Rejoignez notre programme et acquérez de nouvelles compétences dès aujourd'hui.",Spam
+"Obtenez des followers authentiques et engagés sur les réseaux sociaux, {{civility}} {{firstName}} {{lastName}}. Boostez votre présence en ligne et augmentez votre influence.",Spam
+"Augmentez votre taux de conversion avec notre stratégie de marketing éprouvée, {{civility}} {{firstName}} {{lastName}}. Boostez vos ventes et développez votre entreprise.",Spam
+"Obtenez une taille plus grande avec notre produit d'agrandissement masculin, {{civility}} {{firstName}} {{lastName}}. Commandez maintenant et transformez votre vie sexuelle.",Spam
+"Gagnez de l'argent en ligne avec notre système de génération de revenus passifs, {{civility}} {{firstName}} {{lastName}}. Pas besoin de compétences techniques, laissez notre système travailler pour vous.",Spam
+"Obtenez des résultats instantanés avec notre programme de remise en forme révolutionnaire, {{civility}} {{firstName}} {{lastName}}. Perdez du poids rapidement et retrouvez une silhouette parfaite.",Spam
+"Boostez votre potentiel de rencontres avec notre application de rencontres premium, {{civility}} {{firstName}} {{lastName}}. Rencontrez des célibataires intéressants et trouvez l'amour dès aujourd'hui.",Spam
+"Profitez de notre offre spéciale, {{firstName}} ! Obtenez une réduction de {{other}} % sur votre prochain achat en utilisant le code promotionnel {{other}}. Ne manquez pas cette opportunité !",Spam
+"Gagnez un voyage de rêve pour deux personnes, {{firstName}} {{lastName}} ! Inscrivez-vous dès maintenant pour participer au tirage au sort. Cliquez {{link}} pour plus d'informations.",Spam
+"Boostez votre productivité avec notre application de gestion de tâches, {{firstName}}. Organisez votre emploi du temps et atteignez vos objectifs plus facilement. Téléchargez-la maintenant !",Spam
+"Révélez votre potentiel de leadership avec notre formation exclusive, {{firstName}} {{lastName}}. Développez vos compétences en management et faites progresser votre carrière. Inscrivez-vous dès aujourd'hui !",Spam
+"Obtenez des abonnés YouTube en masse, {{firstName}} ! Boostez votre chaîne et augmentez votre visibilité en ligne. Cliquez {{link}} pour découvrir nos offres spéciales.",Spam
+"Découvrez notre nouvelle collection de vêtements tendance, {{firstName}}. Obtenez un look unique et à la mode avec nos produits de qualité supérieure. Explorez notre boutique en ligne dès maintenant !",Spam
+"Transformez votre peau avec notre crème anti-âge révolutionnaire, {{firstName}} {{lastName}}. Réduisez les signes du vieillissement et retrouvez une peau éclatante de jeunesse. Commandez-la dès aujourd'hui !",Spam
+"Gagnez de l'argent en répondant à des sondages en ligne, {{firstName}}. Participez à nos enquêtes rémunérées et gagnez des récompenses en cash. Inscrivez-vous gratuitement dès maintenant !",Spam
+"Boostez votre site web avec notre service de référencement, {{firstName}}. Obtenez un meilleur classement sur les moteurs de recherche et attirez plus de trafic qualifié. Contactez-nous dès aujourd'hui !",Spam
+"Obtenez des résultats rapides avec notre programme d'entraînement intensif, {{firstName}} {{lastName}}. Brûlez les graisses, développez vos muscles et transformez votre corps. Rejoignez-nous dès maintenant !",Spam
+"Félicitations, {{firstName}} ! Vous avez remporté un bon d'achat de {{other}} euros dans notre tirage au sort mensuel. Récupérez votre récompense en cliquant sur {{link}}. Ne tardez pas !",Spam
+"Augmentez vos ventes en ligne avec notre solution de marketing digital, {{firstName}} {{lastName}}. Atteignez un public plus large et boostez votre chiffre d'affaires. Contactez-nous dès aujourd'hui !",Spam
+"Obtenez un prêt personnel sans frais de dossier, {{firstName}}. Profitez d'un taux d'intérêt compétitif et d'une réponse rapide. Soumettez votre demande sur {{link}} dès maintenant.",Spam
+"Économisez jusqu'à {{other}} % sur votre prochain voyage, {{firstName}} ! Réservez dès maintenant et bénéficiez de tarifs exclusifs. Cliquez sur {{link}} pour découvrir nos offres.",Spam
+"Maximisez vos gains avec notre système de trading automatisé, {{firstName}}. Laissez notre algorithme puissant travailler pour vous. Inscrivez-vous sur {{link}} et commencez à gagner dès aujourd'hui.",Spam
+Votre rendez-vous avec {{firstname}} arrive le {{date}}. Bonne journée,Non spam
+Votre rendez-vous avec {{firstname}} arrive le {{date}}. Répondez avec {{other}} ou {{other}}. Merci,Non spam
+"Cher {{firstname}} : Malheureusement, votre réservation en attente n’a pas abouti. Aucun débit n’a été porté à votre compte bancaire. Vous pouvez essayer de réserver à nouveau l’hôtel. Nous nous excusons sincèrement pour la gêne occasionnée.",Non spam
+Bienvenue{{firstname}}. Pour quelle entreprise travaillez-vous? ,Non spam
+"Je suis {{firstname}}, l’assistante virtuelle",Spam
+"Salut, êtes-vous disponible ?",Spam
+"Nous allons bientôt mettre notre plateforme en place, j’aimerais mieux vous connaître en posant 5 questions",Spam
+"Ne vous inquiétez pas, je ne partagerai vos réponses avec personne",Spam
+Félicitations ! Vous avez gagné un prix incroyable ! Cliquez sur ce lien pour réclamer votre récompense ! ,Spam
+Obtenez des milliers de followers et likes sur vos réseaux sociaux en un instant ! Utilisez notre service exclusif maintenant ! ,Spam
+Investissez dans cette opportunité incroyable et doublez votre argent en quelques jours seulement ! ,Spam
+Achetez notre produit miracle et dites adieu à tous vos problèmes de santé ! ,Spam
+Répondez à ce sondage et gagnez un voyage gratuit ! Ne manquez pas cette chance unique ! ,Spam
